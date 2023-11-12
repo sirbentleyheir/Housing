@@ -6,6 +6,12 @@ Numerous regression techniques are used to forecast home values by zip code.
 
 Predict what features and factors drive house price sales.
 
+- Fluctuations in daily average house prices
+- Average house prices according to zipcode
+- Distributions of house prices
+- Distributions of bedrooms and bathrooms per house
+- Correlation of house condition and view on house prices
+
 # Data
 
 The data set can be found here: [kc_house_data.csv.zip](https://github.com/sirbentleyheir/Housing/files/13329201/kc_house_data.csv.zip)
@@ -14,3 +20,5 @@ The data set can be found here: [kc_house_data.csv.zip](https://github.com/sirbe
 
 
 <img width="1405" alt="Screenshot 2023-11-12 at 22 29 37" src="https://github.com/sirbentleyheir/Housing/assets/104694742/07203498-0300-4199-9e0a-1e513fd710ff">
+
+
