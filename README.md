@@ -4,7 +4,7 @@ Numerous regression techniques are used to forecast home values by zip code.
 
 # Objective
 
-Predict what features drive house price sales in King's County and understand which factors are responsible for higher property value.
+Predict what features drive house price sales and understand which factors are responsible for higher property value.
 
 # Data
 
